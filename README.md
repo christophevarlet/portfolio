@@ -14,10 +14,11 @@ Il s'agit d'un **journal évolutif**, illustrant la démarche, l'organisation et
 ## 🔹 Structure initiale
 
 - `projects/` : projets techniques et prototypes  
+  > Chaque projet peut contenir un dossier `assets/` pour ses images, graphiques ou fichiers de ressources.
 - `explorations/` : journaux exploratoires et expérimentations  
+  > Chaque exploration peut contenir un dossier `assets/` pour ses fichiers spécifiques.
 - `meta/` : réflexions méthodologiques et analyses transversales  
 - `about.md` : présentation de la posture professionnelle et exploratoire  
-- `assets/` : images, graphiques et fichiers de ressources  
 
 > Chaque dossier contiendra progressivement des fichiers Markdown ou du code détaillant contexte, hypothèses, expérimentations et conclusions.
 
